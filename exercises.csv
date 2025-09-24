@@ -1,0 +1,6 @@
+﻿id,exercise,level,equipment,type,base_reps,base_time,base_weight,goal
+1,Push-up,beginner,bodyweight,reps,10,,,muscle
+2,Plank,beginner,bodyweight,time,,30,,strength
+3,Jump Rope,all,bodyweight,time,,60,,cardio
+4,Barbell Deadlift,intermediate,barbell,weight,6,,25,strength
+5,Dumbbell Curl,beginner,dumbbell,reps,8,,5,muscle
